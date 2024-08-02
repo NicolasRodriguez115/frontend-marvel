@@ -1,0 +1,8 @@
+body{
+    display: flex;
+    height: 100vh;
+    background-image: url(https://images.alphacoders.com/695/695898.jpg);
+    background-size:cover;
+    background-repeat:round;
+    color: rgb(255, 255, 255)
+}
